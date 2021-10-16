@@ -12,7 +12,7 @@
     <color name="colors_activity_items">#27ae60</color>
     <color name="phrases_activity_items">#2980b9</color>
 
-    <color name="main_activity">#2c3e50</color>
+    <color name="main_activity">#000000</color>
     <color name="numbers_activity">#e74c3c</color>
     <color name="colors_activity">#2ecc71</color>
     <color name="phrases_activity">#3498db</color>
